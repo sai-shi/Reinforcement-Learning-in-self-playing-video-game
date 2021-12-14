@@ -11,4 +11,5 @@ Proximal Policy Gradient (PPO) is an improved version of vanilla policy gradient
 - Epsilon-greedy: Choose action epsilon greedily and improve exploration 
 # Result #
 Trained robot (5000 episodes, 15 hours): 
+
 ![result](https://github.com/sai-shi/Reinforcement-Learning/blob/master/diff_cnn_model.gif)
